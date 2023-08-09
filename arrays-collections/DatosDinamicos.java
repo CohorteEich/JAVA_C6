@@ -23,7 +23,6 @@ public class DatosDinamicos {
         // System.out.println( "Tercer array: " + animales) ;
 
         List<String> leguajesDeProgramacion = new ArrayList<>();
-        List<String> tipoDeZapatos = new ArrayList<>();
         
 
         leguajesDeProgramacion.add("JavaScript");
